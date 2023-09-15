@@ -1,0 +1,2 @@
+C:\Users\Yusuf\source\repos\DerinDusunce\bin\Release\net6.0\publish\win-x86\DerinDusunce.pdb
+C:\Users\Yusuf\source\repos\DerinDusunce\bin\Release\net6.0\publish\win-x86\DerinDusunce.exe
