@@ -1,0 +1,15 @@
+C:\Users\Yusuf\source\repos\DerinDusunce\bin\Debug\net6.0\DerinDusunce.exe
+C:\Users\Yusuf\source\repos\DerinDusunce\bin\Debug\net6.0\DerinDusunce.deps.json
+C:\Users\Yusuf\source\repos\DerinDusunce\bin\Debug\net6.0\DerinDusunce.runtimeconfig.json
+C:\Users\Yusuf\source\repos\DerinDusunce\bin\Debug\net6.0\DerinDusunce.dll
+C:\Users\Yusuf\source\repos\DerinDusunce\bin\Debug\net6.0\DerinDusunce.pdb
+C:\Users\Yusuf\source\repos\DerinDusunce\obj\Debug\net6.0\DerinDusunce.csproj.AssemblyReference.cache
+C:\Users\Yusuf\source\repos\DerinDusunce\obj\Debug\net6.0\DerinDusunce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf\source\repos\DerinDusunce\obj\Debug\net6.0\DerinDusunce.AssemblyInfoInputs.cache
+C:\Users\Yusuf\source\repos\DerinDusunce\obj\Debug\net6.0\DerinDusunce.AssemblyInfo.cs
+C:\Users\Yusuf\source\repos\DerinDusunce\obj\Debug\net6.0\DerinDusunce.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\source\repos\DerinDusunce\obj\Debug\net6.0\DerinDusunce.dll
+C:\Users\Yusuf\source\repos\DerinDusunce\obj\Debug\net6.0\refint\DerinDusunce.dll
+C:\Users\Yusuf\source\repos\DerinDusunce\obj\Debug\net6.0\DerinDusunce.pdb
+C:\Users\Yusuf\source\repos\DerinDusunce\obj\Debug\net6.0\DerinDusunce.genruntimeconfig.cache
+C:\Users\Yusuf\source\repos\DerinDusunce\obj\Debug\net6.0\ref\DerinDusunce.dll
