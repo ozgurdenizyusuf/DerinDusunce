@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4DNNlntsCjF4gGVbsTVQbnhAnbIsWHRAbDMhP8cB8MeKvBCKnQuPAwBHqAwKoWUvZALYCn8hbZpxlbYTNxRqRA==",
+  "dgSpecHash": "BvgL/VHRlQRc9N9IUWRecXfFQd6wGJTdjIkG68SzqldEH8AAMQgxX2m+6wTSLcOCCj95e/P6klpFG6F9Tdy8fw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yusuf\\source\\repos\\DerinDusunce\\DerinDusunce.csproj",
+  "projectFilePath": "C:\\Users\\Yusuf\\Desktop\\Programming\\GitHub\\DerinDusunce\\DerinDusunce.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yusuf\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.20\\microsoft.netcore.app.runtime.win-x86.6.0.20.nupkg.sha512",
     "C:\\Users\\Yusuf\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.20\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.20.nupkg.sha512",
